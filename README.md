@@ -2,7 +2,7 @@
 
 > Primero creamos el repo en github
 
-> luego lo clonamos
-    git clone URL
+> luego lo clonamos  
+      git clone URL
 
 > Y luego .....
