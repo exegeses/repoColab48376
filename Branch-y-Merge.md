@@ -1,4 +1,4 @@
-# Branches (ramas) y Merge (susiónde ramas)
+# Branches (ramas) y Merge (fusión de ramas)
 
 ## crear nueva rama  
     git branch nombreRama  
